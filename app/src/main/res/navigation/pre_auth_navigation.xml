@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/signUpFragment"
-        android:name="com.dscvit.periodsapp.ui.auth.SignUpFragment"
+        android:name="com.dscvit.femhelper.ui.auth.SignUpFragment"
         android:label="fragment_sign_up"
         tools:layout="@layout/fragment_sign_up" >
         <action
@@ -19,12 +19,12 @@
     </fragment>
     <fragment
         android:id="@+id/signInFragment"
-        android:name="com.dscvit.periodsapp.ui.auth.SignInFragment"
+        android:name="com.dscvit.femhelper.ui.auth.SignInFragment"
         android:label="fragment_sign_in"
         tools:layout="@layout/fragment_sign_in" />
     <fragment
         android:id="@+id/otpVerificationFragment"
-        android:name="com.dscvit.periodsapp.ui.auth.OtpVerificationFragment"
+        android:name="com.dscvit.femhelper.ui.auth.OtpVerificationFragment"
         android:label="fragment_otp_verification"
         tools:layout="@layout/fragment_otp_verification" >
         <action
@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/detailsFragment"
-        android:name="com.dscvit.periodsapp.ui.auth.DetailsFragment"
+        android:name="com.dscvit.femhelper.ui.auth.DetailsFragment"
         android:label="fragment_details"
         tools:layout="@layout/fragment_details" />
 </navigation>
