@@ -7,7 +7,7 @@
 
 --- 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://www.figma.com/file/rnbTscS9DpLTvhBnWpMcuG/FemHelper)
-  [![UI ](https://img.shields.io/badge/Backend-Link%20to%20DOCS-orange?style=flat-square&logo=appveyor)](https://documenter.getpostman.com/view/7638824/SWTHbEzf?version=latest)
+  [![UI ](https://img.shields.io/badge/Backend-Link%20to%20DOCS-orange?style=flat-square&logo=appveyor)](https://femhelper-swe.herokuapp.com/)
 
 
 ## Functionalities
